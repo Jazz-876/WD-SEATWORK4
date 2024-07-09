@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/your-username/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    
   </a>
   <h3 align="center">Café Shop Project</h3>
 </div>
