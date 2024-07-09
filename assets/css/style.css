@@ -1,6 +1,7 @@
 body {
     background-image: url(../img/LPBG.jpg);
-    
+    background-repeat: no-repeat;
+    background-size: cover;
 
   
    .landing {
@@ -9,6 +10,9 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    color: #ffffff9a;
+    font-size: 150%;
+    
   
     
   }
